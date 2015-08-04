@@ -2,11 +2,14 @@ Here You will find cucumber example with javascript.
 
 Install:
 
-  * clone this repo using
-    $ git clone git@github.com:dilkhush/javascript-cucumber.git
+  clone this repo using:
 
-  * Install Packages
-    $ npm install
+    git clone git@github.com:dilkhush/javascript-cucumber.git
 
-  * run cucumber features from application root
-    $ ./node_modules/cucumber/bin/cucumber.js
+  Install Packages:
+
+    npm install
+
+  Run cucumber features from application root:
+
+    node_modules/cucumber/bin/cucumber.js
